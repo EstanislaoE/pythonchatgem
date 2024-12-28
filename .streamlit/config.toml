@@ -1,0 +1,15 @@
+[theme]
+
+#primary accent color 
+primaryColor = "#d33682"
+
+#background colort for main content are 
+backgroundColor = "#002b36"
+
+#background color 
+secondaryBackgroundColor = "#586e75"
+
+#color for almost all text 
+textColor = "#fafafa"
+
+font = "sans serif"
